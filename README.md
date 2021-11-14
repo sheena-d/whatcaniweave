@@ -1,0 +1,2 @@
+# whatcaniweave
+Exploratory weaving calculator
